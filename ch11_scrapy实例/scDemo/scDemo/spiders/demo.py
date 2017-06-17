@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-
 class DemoSpider(scrapy.Spider):
     name = "demo"
     # allowed_domains = ["python123.io"]
